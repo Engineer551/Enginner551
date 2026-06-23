@@ -16,7 +16,7 @@ Driven by a desire to improve student user experience, I redesigned the Universi
 <img width="1600" height="831" alt="image" src="https://github.com/user-attachments/assets/e3ecc826-4895-408e-80b0-443f4c69841d" />
 
 
-(INSERT_YOUR_FIGMA_SHARE_LINK_HERE)
+
 
 🔗 [**Launch Interactive Figma Prototype**]
 (https://www.figma.com/proto/YuTunOvmpkWo8FjYpfOAhZ/Mis-Web-UI?node-id=1191-657&viewport=-655%2C-108%2C0.21&t=hVoIlETzWM9qdgEh-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1191%3A491&page-id=1157%3A274)
